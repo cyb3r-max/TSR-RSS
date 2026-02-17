@@ -300,5 +300,12 @@
     "url": "https://www.thesimsresource.com/members/Seleng/downloads/browse/category/sims4/skipsetitems/1",
     "reason": "network error",
     "when": "2026-02-17T17:03:49.155Z"
+  },
+  {
+    "name": "Rirann",
+    "url": "https://www.thesimsresource.com/artists/Rirann/downloads/browse/category/sims4/skipsetitems/1",
+    "status": 302,
+    "reason": "redirect",
+    "when": "2026-02-17T19:04:00.050Z"
   }
 ]
