@@ -294,5 +294,11 @@
     "status": 500,
     "reason": "http error",
     "when": "2025-11-18T14:24:50.038Z"
+  },
+  {
+    "name": "Seleng",
+    "url": "https://www.thesimsresource.com/members/Seleng/downloads/browse/category/sims4/skipsetitems/1",
+    "reason": "network error",
+    "when": "2026-02-17T17:03:49.155Z"
   }
 ]
