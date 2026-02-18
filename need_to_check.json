@@ -353,5 +353,11 @@
     "status": 302,
     "reason": "redirect",
     "when": "2026-02-18T17:10:19.648Z"
+  },
+  {
+    "name": "Kikuruacchi",
+    "url": "https://www.thesimsresource.com/members/Kikuruacchi/downloads/browse/category/sims4/skipsetitems/1",
+    "reason": "network error",
+    "when": "2026-02-18T22:38:57.042Z"
   }
 ]
