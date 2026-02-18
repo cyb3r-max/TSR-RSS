@@ -319,5 +319,12 @@
     "url": "https://www.thesimsresource.com/members/MysteriousOo/downloads/browse/category/sims4/skipsetitems/1",
     "reason": "network error",
     "when": "2026-02-17T22:37:22.735Z"
+  },
+  {
+    "name": "McLayneSims",
+    "url": "https://www.thesimsresource.com/members/McLayneSims/downloads/browse/category/sims4/skipsetitems/1",
+    "status": 500,
+    "reason": "http error",
+    "when": "2026-02-18T02:38:37.735Z"
   }
 ]
