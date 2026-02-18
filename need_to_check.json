@@ -326,5 +326,19 @@
     "status": 500,
     "reason": "http error",
     "when": "2026-02-18T02:38:37.735Z"
+  },
+  {
+    "name": "ali1",
+    "url": "https://www.thesimsresource.com/artists/ali1/downloads/browse/category/sims4/skipsetitems/1",
+    "status": 302,
+    "reason": "redirect",
+    "when": "2026-02-18T10:52:23.042Z"
+  },
+  {
+    "name": "wingssims",
+    "url": "https://www.thesimsresource.com/artists/wingssims/downloads/browse/category/sims4/skipsetitems/1",
+    "status": 302,
+    "reason": "redirect",
+    "when": "2026-02-18T10:52:24.424Z"
   }
 ]
