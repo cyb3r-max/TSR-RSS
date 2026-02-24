@@ -359,5 +359,12 @@
     "url": "https://www.thesimsresource.com/members/Kikuruacchi/downloads/browse/category/sims4/skipsetitems/1",
     "reason": "network error",
     "when": "2026-02-18T22:38:57.042Z"
+  },
+  {
+    "name": "_WITCHY_",
+    "url": "https://www.thesimsresource.com/members/_WITCHY_/downloads/browse/category/sims4/skipsetitems/1",
+    "status": 302,
+    "reason": "redirect",
+    "when": "2026-02-24T02:35:52.702Z"
   }
 ]
