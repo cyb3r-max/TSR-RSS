@@ -366,5 +366,114 @@
     "status": 302,
     "reason": "redirect",
     "when": "2026-02-24T02:35:52.702Z"
+  },
+  {
+    "name": "Bobur2",
+    "url": "https://www.thesimsresource.com/artists/Bobur2/downloads/browse/category/sims4/skipsetitems/1",
+    "reason": "network error",
+    "when": "2026-04-17T20:52:39.690Z"
+  },
+  {
+    "name": "jomsims",
+    "url": "https://www.thesimsresource.com/artists/jomsims/downloads/browse/category/sims4/skipsetitems/1",
+    "status": 404,
+    "reason": "http error",
+    "when": "2026-04-17T20:52:42.337Z"
+  },
+  {
+    "name": "Madlen",
+    "url": "https://www.thesimsresource.com/artists/Madlen/downloads/browse/category/sims4/skipsetitems/1",
+    "status": 404,
+    "reason": "http error",
+    "when": "2026-04-17T20:52:42.437Z"
+  },
+  {
+    "name": "matomibotaki",
+    "url": "https://www.thesimsresource.com/artists/matomibotaki/downloads/browse/category/sims4/skipsetitems/1",
+    "status": 404,
+    "reason": "http error",
+    "when": "2026-04-17T20:52:42.575Z"
+  },
+  {
+    "name": "Nightcrawler_Sims",
+    "url": "https://www.thesimsresource.com/artists/Nightcrawler_Sims/downloads/browse/category/sims4/skipsetitems/1",
+    "status": 404,
+    "reason": "http error",
+    "when": "2026-04-17T20:52:42.657Z"
+  },
+  {
+    "name": "Beto_ae0",
+    "url": "https://www.thesimsresource.com/members/Beto_ae0/downloads/browse/category/sims4/skipsetitems/1",
+    "status": 404,
+    "reason": "http error",
+    "when": "2026-04-17T20:52:42.825Z"
+  },
+  {
+    "name": "Black_Lily",
+    "url": "https://www.thesimsresource.com/members/Black_Lily/downloads/browse/category/sims4/skipsetitems/1",
+    "reason": "network error",
+    "when": "2026-04-17T20:53:02.829Z"
+  },
+  {
+    "name": "Daisy-Sims",
+    "url": "https://www.thesimsresource.com/members/Daisy-Sims/downloads/browse/category/sims4/skipsetitems/1",
+    "reason": "network error",
+    "when": "2026-04-17T20:53:22.849Z"
+  },
+  {
+    "name": "DOLilac",
+    "url": "https://www.thesimsresource.com/members/DOLilac/downloads/browse/category/sims4/skipsetitems/1",
+    "reason": "network error",
+    "when": "2026-04-17T20:53:42.869Z"
+  },
+  {
+    "name": "Emerald",
+    "url": "https://www.thesimsresource.com/members/Emerald/downloads/browse/category/sims4/skipsetitems/1",
+    "status": 302,
+    "reason": "redirect",
+    "when": "2026-04-17T20:53:44.815Z"
+  },
+  {
+    "name": "feyona",
+    "url": "https://www.thesimsresource.com/members/feyona/downloads/browse/category/sims4/skipsetitems/1",
+    "reason": "network error",
+    "when": "2026-04-17T20:54:04.817Z"
+  },
+  {
+    "name": "Joan_Campbell_Beauty_",
+    "url": "https://www.thesimsresource.com/members/Joan_Campbell_Beauty_/downloads/browse/category/sims4/skipsetitems/1",
+    "reason": "network error",
+    "when": "2026-04-17T20:54:26.884Z"
+  },
+  {
+    "name": "KaTPurpura",
+    "url": "https://www.thesimsresource.com/members/KaTPurpura/downloads/browse/category/sims4/skipsetitems/1",
+    "status": 302,
+    "reason": "redirect",
+    "when": "2026-04-17T20:54:44.945Z"
+  },
+  {
+    "name": "Layla",
+    "url": "https://www.thesimsresource.com/members/Layla/downloads/browse/category/sims4/skipsetitems/1",
+    "reason": "network error",
+    "when": "2026-04-17T20:55:04.955Z"
+  },
+  {
+    "name": "PastelHeartKittens",
+    "url": "https://www.thesimsresource.com/members/PastelHeartKittens/downloads/browse/category/sims4/skipsetitems/1",
+    "reason": "network error",
+    "when": "2026-04-17T20:55:24.976Z"
+  },
+  {
+    "name": "remaron",
+    "url": "https://www.thesimsresource.com/members/remaron/downloads/browse/category/sims4/skipsetitems/1",
+    "reason": "network error",
+    "when": "2026-04-17T20:56:02.596Z"
+  },
+  {
+    "name": "WisteriaSims",
+    "url": "https://www.thesimsresource.com/members/WisteriaSims/downloads/browse/category/sims4/skipsetitems/1",
+    "reason": "network error",
+    "when": "2026-04-17T20:56:33.351Z"
   }
 ]
