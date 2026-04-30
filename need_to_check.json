@@ -487,5 +487,12 @@
     "url": "https://www.thesimsresource.com/members/siomisvault/downloads/browse/category/sims4/skipsetitems/1",
     "reason": "network error",
     "when": "2026-04-17T22:48:23.613Z"
+  },
+  {
+    "name": "qicc",
+    "url": "https://www.thesimsresource.com/members/qicc/downloads/browse/category/sims4/skipsetitems/1",
+    "status": 503,
+    "reason": "http error",
+    "when": "2026-04-30T03:37:37.827Z"
   }
 ]
