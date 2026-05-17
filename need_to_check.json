@@ -494,5 +494,11 @@
     "status": 503,
     "reason": "http error",
     "when": "2026-04-30T03:37:37.827Z"
+  },
+  {
+    "name": "bukovka",
+    "url": "https://www.thesimsresource.com/artists/bukovka/downloads/browse/category/sims4/skipsetitems/1",
+    "reason": "network error",
+    "when": "2026-05-17T17:01:35.393Z"
   }
 ]
